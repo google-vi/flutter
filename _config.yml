@@ -12,8 +12,8 @@ repo:
   samples: https://github.com/flutter/samples
 branch: master
 
-baseurl: "/flutter" # the subpath of your site, e.g. /blog
-url: "https://cs.withthanh.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://flutter.withthanh.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 dart:
   api: https://api.dart.dev
